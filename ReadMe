@@ -1,1 +1,4 @@
 This is to test wordpress deets
+
+# get a workflow going for wordpress local dev and test using Github to push, pull, merge and commit changes 
+# integrate db link to commit ie db always in sync 
